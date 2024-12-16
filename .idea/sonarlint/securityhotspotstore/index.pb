@@ -7,3 +7,5 @@ U
 %contracts/verifiable-credentials.clar,3/f/3f901d883734578346aaacf08c6394ae675f109d
 T
 $tests/verifiable-credentials.test.ts,9/9/995ce3df503567cf21f2b2a49986a2a40c5ca023
+P
+ contracts/reputation-system.clar,8/f/8f85a02c68bbab1632e6c7d1d0725529f935513d
